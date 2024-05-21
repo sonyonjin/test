@@ -8,5 +8,5 @@ repositories {
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.aar'])
+    implementation fileTree(dir: '.', include: ['*.aar'])
 }
